@@ -16,7 +16,7 @@
 - I’m currently study 
 - I'm old Fifteen
 - I coded games in 2021
-- FiveM & Wed Developer
+- FiveM & Web Developer
 
 **Discord My Contact**
 
