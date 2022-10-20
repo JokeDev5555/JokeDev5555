@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available on **JK Developer**
 
-- 💬 Ask me about **FiveM Scripts**
  
 I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a passion for gaming and programming.
 
