@@ -5,6 +5,15 @@
 <h2>Hey there <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" height="320" max-width="500" max-height="320" />
 
+
+- 💡 I’m currently study 
+
+- 👨‍💻 All of my projects are available on **JK Developer**
+
+- 💬 Ask me about **FiveM Scripts**
+ 
+- 📫 My Contact <a href="https://discord.com/invite/3nedYfQSnZ" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a>
+
 I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a passion for gaming and programming.<br>To be honest, little skill in either category.<br>However, that doesn’t stop me from loving both.
 
 **Discord Communities:**
