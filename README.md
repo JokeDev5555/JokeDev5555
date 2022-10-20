@@ -2,6 +2,9 @@
   <img src="https://cdn.discordapp.com/attachments/952855787628269588/1032608729448857630/standard.gif" alt="my-banner"/>
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
+
 <h2>Hey there <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" height="320" max-width="500" max-height="320" />
 
