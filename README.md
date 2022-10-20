@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/952855787628269588/1025467498340040774/standard.gif" alt="my-banner"/>
+  <img src="https://cdn.discordapp.com/attachments/952855787628269588/1032608729448857630/standard.gif" alt="my-banner"/>
 </p>
 
 <h2>Hey there <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2>
