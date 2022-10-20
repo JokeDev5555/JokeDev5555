@@ -3,7 +3,7 @@ I’m Joke Sohandsome a Thai guy with a passion for gaming and programming.
 To be honest, little skill in either category.
 However, that doesn’t stop me from loving both.
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+**Discord Communities:**
 
 <!--
 **JokeDev5555/JokeDev5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
