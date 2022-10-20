@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joke Sohandsome</h1>
-<h3 align="center">I’m ***Joke Sohandsome*** a Thai guy with a passion for gaming and programming. To be honest, little skill in either category. However, that doesn’t stop me from loving both.</h3>
+<h3 align="center">I’m Joke Sohandsome a Thai guy with a passion for gaming and programming. To be honest, little skill in either category. However, that doesn’t stop me from loving both.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,8 +14,7 @@
 <a href="https://discord.gg/https://discord.com/invite/3nedYfQSnZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/3nedYfQSnZ" height="30" width="40" /></a>
 </p>
 
-<!--
-**JokeDev5555/JokeDev5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
