@@ -10,12 +10,11 @@
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/952855787628269588/970338584907358289/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="500" height="300" max-width="500" max-height="320" />
 
 
+***I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a passion for gaming and programming.***
+
 - 💡 I’m currently study 
 
 - 👨‍💻 All of my projects are available on **JK Developer**
-
- 
-***I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a passion for gaming and programming.***
 
 **Discord My Contact**
 
