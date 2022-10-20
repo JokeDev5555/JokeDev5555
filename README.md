@@ -4,6 +4,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
+[![star][star]][star] 
+[![heart][heart]][heart]
+[![mail][mail]][mail]
 
 <h2>Hi <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2>
 <h3>My Name Is Joke</3>
