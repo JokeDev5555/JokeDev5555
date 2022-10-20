@@ -1,4 +1,6 @@
-I’m Joke Sohandsome a Thai guy with a passion for gaming and programming. To be honest, little skill in either category. However, that doesn’t stop me from loving both.
+I’m Joke Sohandsome a Thai guy with a passion for gaming and programming.
+To be honest, little skill in either category. 
+However, that doesn’t stop me from loving both.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
