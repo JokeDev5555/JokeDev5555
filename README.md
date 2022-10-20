@@ -31,6 +31,5 @@ I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a pa
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
