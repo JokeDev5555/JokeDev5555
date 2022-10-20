@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joke Sohandsome</h1>
-<h3 align="center">I’m Joke Sohandsome a Thai guy with a passion for gaming and programming. To be honest, little skill in either category. However, that doesn’t stop me from loving both.</h3>
+I’m Joke Sohandsome a Thai guy with a passion for gaming and programming. To be honest, little skill in either category. However, that doesn’t stop me from loving both.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
