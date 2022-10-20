@@ -6,9 +6,9 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
 
 
-<h2>Hi <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2> <hr>
+<h2>Hi  <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2> <hr>
 
-**My Name Is Joke**
+**My Name Is Joke Sohandsome**
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/952855787628269588/970338584907358289/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="500" height="300" max-width="500" max-height="320" />
 
 
