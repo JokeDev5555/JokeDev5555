@@ -20,4 +20,3 @@ I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a pa
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 If you like what I do, maybe consider buying me a coffee/tea ❤️<br><br>
-<a href="https://ko-fi.com/azael" target="_blank"><img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/support-bottom.gif" alt="Buy Me A Coffee" width="325" ></a>
