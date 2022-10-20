@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.giphy.com/media/16rv7SSC1SXcjwEKqt/source.gif" alt="my-banner"/>
+</p>
+
 <h2>Hey there <img height="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" width="500" height="320" max-width="500" max-height="320" />
 
