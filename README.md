@@ -5,7 +5,7 @@ I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a pa
 
 **Discord Communities:**
 
-<a href="https://discord.gg/Ca5W62f" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a>
+<a href="https://discord.com/invite/3nedYfQSnZ" title=""><img alt="Discord Status" src="https://discord.com/api/guilds/628127171868885014/widget.png"></a>
 
 **Languages & Tools:**
 
