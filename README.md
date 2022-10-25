@@ -36,4 +36,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
-<img src="https://cdn.discordapp.com/attachments/952855787628269588/1032617579975561226/standard.gif" width="1000" height="80" >
+<img src="https://cdn.discordapp.com/attachments/952855787628269588/1025623881312116849/standard_2.gif" width="1000" height="80" >
