@@ -17,7 +17,7 @@
 - *I’m currently study* 
 - *I'm old Fifteen*
 - *I coded games in 2021*
-<!--- *FiveM & Web Developer*-->
+*FiveM & Web Developer*
 
 **Discord My Contact**
 
