@@ -15,7 +15,7 @@
 *I’m <a href="https://github.com/JokeDev5555">Joke Dev</a> a Thai guy with a passion for gaming and programming.*
 
 - *I’m currently study* 
-- *I'm old Fifteen*
+- *I'm old Seventeen*
 - *I coded games in 2021*
 - *FiveM & Web Developer*
 
